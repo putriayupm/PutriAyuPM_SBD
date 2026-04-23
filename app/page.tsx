@@ -18,7 +18,7 @@ export default function Home() {
       {/* HERO - VIDEO LANDSCAPE */}
       <section className="relative h-screen overflow-hidden">
         <video
-          src="/video2.mp4"
+          src="https://res.cloudinary.com/dpmpcyhyc/video/upload/v1776941073/1085-142801793_medium_qyysu4.mp4"
           autoPlay
           loop
           muted
@@ -99,7 +99,7 @@ export default function Home() {
           <div className="relative flex-shrink-0">
             <div className="w-[280px] h-[500px] rounded-[40px] overflow-hidden border-4 border-white/10 shadow-2xl">
               <video
-                src="/video.mp4"
+                src="https://res.cloudinary.com/dpmpcyhyc/video/upload/v1776941838/228847_medium_1_rpf9kn.mp4"
                 autoPlay
                 loop
                 muted
